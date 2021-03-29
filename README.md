@@ -21,3 +21,12 @@ The data set contains the following features:
  
 The trained model was able to predict with and accuracy of 94% that a user will click on the ad will visiting the company website.
 The classification report for the model can be found in the jupyter project notebook.
+            
+         precision    recall  f1-score   support
+
+           0       0.91      0.95      0.93       157
+           1       0.94      0.90      0.92       143
+
+    accuracy                           0.93       300
+   macro avg       0.93      0.93      0.93       300
+weighted avg       0.93      0.93      0.93       300
